@@ -11,6 +11,8 @@ Requirements:
 
 ## GUI
 
+![](gui_preview.gif)
+
 Start the gui application with:
 
 <pre>
